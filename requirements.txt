@@ -1,0 +1,2 @@
+Flask==your_flask_version
+shortuuid==your_shortuuid_version
