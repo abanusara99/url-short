@@ -1,2 +1,2 @@
-Flask==your_flask_version
-shortuuid==your_shortuuid_version
+Flask==2.3.2
+shortuuid==1.0.11
